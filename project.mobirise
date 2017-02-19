@@ -1,0 +1,532 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "IAVA Editing ",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12",
+    "uniqCompNum": 38,
+    "versionPublish": "3.12",
+    "favicon": "@PROJECT_PATH@/assets/images/white-00000-128x85.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-section-lead B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2669.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">IAVA EDITING</span>",
+          "text": "<span style=\"font-style: normal;\"><b>VIDEO POST PRODUCTION COMPANY</b></span><br><b><br></b>Film editing is now something almost everyone can do at a simple level and enjoy it, but to take it to a higher level requires the same dedication and persistence that any art form does.<b><br></b>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "ABOUT US",
+          "caption": "<p><br></p><p>IAVA EDITING is a full service video post production company with over 7 years of experience in video production. </p><p>The goal of our company is to provide the best: high-quality video editing, communication with the client, adherence to deadlines, speed, price and comfort for our clients.</p><p>Every great video is made it editing room. The shooting of the video is about shopping, almost. It's like going to get all the ingredients together, and you've got to make sure before you leave the store that you got all the ingredients. And then you take those ingredients and you can make a good cake.</p><p><br></p><p></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "We provide video editing for the following types of projects:",
+          "caption": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Social Media Videos</span></b></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Web Commercials</span></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Promo Videos</span></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Corporate Videos</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Independent Films</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">+</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Color Correction/Grading</b></p>",
+          "text2": "<p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Movie Trailers</span><br></b></p><p><b>Broadcast Promos</b></p><p><b>Brand Videos</b></p><p><b>Documentaries</b></p><p><b>Music Videos</b></p><p><b>+</b></p><p><b>Infographics</b></p>",
+          "text3": "<b>Viral Videos</b><div><b>Pitch Videos</b></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TV Commercials</b></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Title Sequences</b></span></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">Concert Visuals</b></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">+</b></div><div><b style=\"font-size: 1.07rem; line-height: 1.5;\">VFX</b><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></div>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/green-2000x1339.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "SOME OF OUR WORKS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ONYN55TpA-w",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-19-41-47.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/UufNjcV8KVU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-19-43-10.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=h4L9Ag6sNSM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-19-46-18.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=79Oe5C-6ABM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-19-41-10.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=foNtPOxf_xU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-20-00-44.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/bke0Mz5HijI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-19-42-10.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=DkIwh5f7suI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-19-56-48.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=SK15DQLKblU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-20-02-21.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-z",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "testimonial": [
+            {
+              "text": "<p>“IAVA Editing is an extremely talented team of video editors. They did a variety of brand videos for us that were exactly what we wanted to showcase our unique product through youtube, social media and our website. Very quick response time and receptive to feedback. We will definitely hire them for future projects. Thanks for all of your work!”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Brett E.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“The team did the work very quickly and perfectly - even finding a better solution than I had originally proposed. The work was done better than similar work I had done by higher cost contractors. The team is always eager for more work and I will be hiring them for future projects.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Nejiib A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“IAVA Editing is a pure joy to work with! This team is very talented and reliable.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Hugo M.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-r",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/green-2000x1339.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR FANTASTIC CLIENTS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-s",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "CONTACT US",
+          "subtitle": "",
+          "form": {
+            "action": "iava.film.production@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/red-2000x1339.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>Address</strong><br>Nikolsko-Botanicheskaya 10 st.<br>Ukraine, Kyiv",
+          "text2": "<strong>Contacts</strong><br>\nEmail: iava.film.production@gmail.com<br>\nPhone: +380 50 9621 657<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.upwork.com/freelancers/~0119021b002701515d\" target=\"_blank\">CEO of IAVA Editing</a><br><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    }
+  }
+}
